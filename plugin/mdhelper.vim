@@ -57,7 +57,7 @@ function! MakeYellow()
 endfunction
 
 command! -nargs=1 MKHeaderCur call MakeHeaderCur(<args>)
-command! MKHeaderAll call MakeHeaderAll()
+command! -nargs=1 MKHeaderAll call MakeHeaderAll(<args>)
 command! MKHeaderCurSmart call MakeHeaderCurSmart()
 command! MKHeaderAllSmart call MakeHeaderAllSmart()
 command! MKRTlCur call MakeRTlCur()
