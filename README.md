@@ -1,7 +1,6 @@
-# redundant
+#### redundant
 
-"redundant
-
+<pre>
 " A bunch of redundant functions to work with markdown and HTML
 " I use a lot of HTML in my markdowns because of rtl
 "
@@ -11,7 +10,9 @@
 "
 " By Wolandark
 " https://github.com/wolandark/redundant
+</pre>
 
 ```
 git clone https://github.com/wolandark/redundant.git ~/.vim/pack/plugins/start/redundant
 ```
+or use vimplug or whatever 
