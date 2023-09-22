@@ -1,16 +1,15 @@
 #### redundant
 
-<pre>
-" A bunch of redundant functions to work with markdown and HTML
-" I use a lot of HTML in my markdowns because of rtl
-"
-" yes I know pandoc exists 😒 
-"
-" This plugin is usefull for me, ymmv!
-"
-" By Wolandark
-" https://github.com/wolandark/redundant
-</pre>
+ A bunch of redundant functions to work with markdown and HTML <br>
+ I use a lot of HTML in my markdowns because of rtl <br>
+ You could technically achive most of these with tpop's surround (technically). <br> 
+ yes I know pandoc exists! you done? 😒 <br>
+<br>
+ This plugin is usefull for me, ymmv! <br>
+
+ By Wolandark
+ https://github.com/wolandark/redundant
+
 
 #### Installation
 Native vim plugin system:
