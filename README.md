@@ -12,9 +12,13 @@
 " https://github.com/wolandark/redundant
 </pre>
 
+#### Installation
+Native vim plugin system:
+
 ```
 git clone https://github.com/wolandark/redundant.git ~/.vim/pack/plugins/start/redundant
 ```
+
 or use vimplug or whatever 
 
 #### Functions
