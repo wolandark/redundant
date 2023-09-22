@@ -1,14 +1,14 @@
-"vim-live-server.vim
+"redundant
 
-" A bunch of redundant function to work with markdown and HTML
+" A bunch of redundant functions to work with markdown and HTML
 " I use a lot of HTML in my markdowns because of rtl
 "
-" yes I know pandoc exists now fuck off
+" yes I know pandoc exists 😒 
 "
 " This plugin is usefull for me, ymmv!
 "
 " By Wolandark
-" https://github.com/wolandark/vim-live-serv
+" https://github.com/wolandark/redundant
 
 function! MakeHeaderCur(lev)
 	    execute '.s/^#/<h' . a:lev . '>/ | .s/$/<\/h' . a:lev . '>/'
